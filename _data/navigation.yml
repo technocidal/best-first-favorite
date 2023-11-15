@@ -1,0 +1,7 @@
+items:
+  - name: Home
+    link: /
+  - name: John
+    link: /john.html
+  - name: Merlin
+    link: /merlin.html

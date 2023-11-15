@@ -1,0 +1,12 @@
+---
+title: Johns BFF
+---
+<section>
+  <ul class="post-list">
+    {% for item in site.data.john.items %}
+      <li class="post-list-element">
+        {% include entry-card.html item=item %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>

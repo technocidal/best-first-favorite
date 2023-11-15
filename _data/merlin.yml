@@ -1,0 +1,49 @@
+items:
+  - name: The Flophouse
+    category: Podcast
+    mentionedOn: Reconcilable Differences - Ep. 221
+    mentionedOnUrl: https://www.relay.fm/rd/221
+    best:
+      - label: Bullet to the Head
+        url: https://www.flophousepodcast.com/2013/08/episode-133-bullet-to-the-head/
+    first:
+      - label: Bullet to the Head
+        url: https://www.flophousepodcast.com/2013/08/episode-133-bullet-to-the-head/
+      - label: Stolen
+        url: https://www.flophousepodcast.com/2013/04/episode-124-stolen/
+    favorite:
+      - label: Bullet to the Head
+        url: https://www.flophousepodcast.com/2013/08/episode-133-bullet-to-the-head/
+      - label: Stolen
+        url: https://www.flophousepodcast.com/2013/04/episode-124-stolen/
+  - name: Beatles Albums
+    category: Other
+    mentionedOn: Reconcilable Differences - Ep. 221
+    mentionedOnUrl: https://www.relay.fm/rd/221
+    best:
+      - label: Rubber Soul
+        url: https://www.beatlesbible.com/albums/rubber-soul/
+      - label: Revolver
+        url: https://www.beatlesbible.com/albums/revolver/
+      - label: The Beatles (White Album)
+        url: https://www.beatlesbible.com/albums/the-beatles-white-album/
+    first:
+      - label: Rubber Soul
+        url: https://www.beatlesbible.com/albums/rubber-soul/
+      - label: Please Please Me
+        url: https://www.beatlesbible.com/albums/please-please-me/
+    favorite:
+      - label: Yet to be revealed
+  - name: Marvel Movies
+    category: Other
+    mentionedOn: Reconcilable Differences - Ep. 221
+    mentionedOnUrl: https://www.relay.fm/rd/221
+    best:
+      - label: Iron Man
+        url: https://www.themoviedb.org/movie/1726-iron-man
+    first:
+      - label: "Captain America: The First Avenger"
+        url: https://www.themoviedb.org/movie/1771-captain-america-the-first-avenger?cmdf=the+first+avenger+tmdb
+    favorite:
+      - label: Guardians of the Galaxy
+        url: https://www.themoviedb.org/movie/118340-guardians-of-the-galaxy

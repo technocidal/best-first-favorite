@@ -1,0 +1,40 @@
+<article>
+  <header>
+    <hgroup>
+      <h3>{{ include.item.name }}</h3>
+      <a href="{{ include.item.mentionedOnUrl }}">{{ include.item.mentionedOn }}</a>
+    </hgroup>
+  </header>
+  <main>
+    <hgroup>
+      <h4>Best</h4>
+      <ul>
+        {% for entry in include.item.best %}
+        <li>
+          <a href="{{ entry.url }}">{{ entry.label }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+    </hgroup>
+    <hgroup>
+      <h4>First</h4>
+      <ul>
+        {% for entry in include.item.first %}
+        <li>
+          <a href="{{ entry.url }}">{{ entry.label }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+    </hgroup>
+    <hgroup>
+      <h4>Favorite</h4>
+      <ul>
+        {% for entry in include.item.favorite %}
+        <li>
+          <a href="{{ entry.url }}">{{ entry.label }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+    </hgroup>
+  </main>
+</article>

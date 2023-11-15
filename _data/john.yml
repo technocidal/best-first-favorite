@@ -1,0 +1,44 @@
+items:
+  - name: The Flophouse
+    category: Podcast
+    mentionedOn: Reconcilable Differences - Ep. 221
+    mentionedOnUrl: https://www.relay.fm/rd/221
+    best:
+      - label: Bullet to the Head
+        url: https://www.flophousepodcast.com/2013/08/episode-133-bullet-to-the-head/
+    first:
+      - label: Bratz
+        url: https://www.flophousepodcast.com/2008/04/episode-14-bratz/
+    favorite:
+      - label: Swing Vote
+        url: https://www.flophousepodcast.com/2009/02/the-flop-house-episode-31-swing-vote/
+  - name: The Legend of Zelda
+    category: Video Game
+    mentionedOn: Reconcilable Differences - Ep. 221
+    mentionedOnUrl: https://www.relay.fm/rd/221
+    best:
+      - label: Breath of the Wild
+        url: https://zelda.nintendo.com/breath-of-the-wild/?cmdf=breath+of+the+wild
+    first:
+      - label: Twilight Princess
+        url: https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Twilight_Princess?cmdf=twilight+princess
+    favorite:
+      - label: Breath of the Wild
+        url: https://zelda.nintendo.com/breath-of-the-wild/?cmdf=breath+of+the+wild
+  - name: Marvel Movies
+    category: Other
+    mentionedOn: Reconcilable Differences - Ep. 221
+    mentionedOnUrl: https://www.relay.fm/rd/221
+    best:
+      - label: Guardians of the Galaxy
+        url: https://www.themoviedb.org/movie/118340-guardians-of-the-galaxy
+      - label: "Captain America: The Winter Soldier"
+        url: https://www.themoviedb.org/movie/100402-captain-america-the-winter-soldier
+    first:
+      - label: Iron Man
+        url: https://www.themoviedb.org/movie/1726-iron-man
+    favorite:
+      - label: Guardians of the Galaxy
+        url: https://www.themoviedb.org/movie/118340-guardians-of-the-galaxy
+      - label: "Captain America: The Winter Soldier"
+        url: https://www.themoviedb.org/movie/100402-captain-america-the-winter-soldier

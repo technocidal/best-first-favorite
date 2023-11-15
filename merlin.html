@@ -1,0 +1,12 @@
+---
+title: Merlins BFF
+---
+<section>
+  <ul class="post-list">
+    {% for item in site.data.merlin.items %}
+      <li class="post-list-element">
+        {% include entry-card.html item=item %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>

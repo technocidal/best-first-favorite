@@ -1,0 +1,28 @@
+title: Best, First, Favorite
+email: hello@technocidal.com
+description: ""
+url: https://bestfirstfavorite.art
+author:
+  name: Johannes Ebeling
+  email: hello@technocidal.com
+
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-spaceship

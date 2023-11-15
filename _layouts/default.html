@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/lightbox.css">
+    <script src="/assets/js/lightbox.js"></script>
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    <header class="container">
+    {% include navigation.html %}
+    </header>
+    <main class="container">
+    {{ content }}
+    </main>
+    <footer class="container" style="text-align: center;">
+      <p>📧 <a href="mailto:hello@technocidal.com">Contact Me</a> 👨‍💻 <a href="https://github.com/technocidal">GitHub</a> 🐘 <a href="https://mastodon.social/@technocidal" rel="me">Mastodon</a></p>
+      <p>Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://v2.picocss.com/docs">Pico CSS</a></p>
+    </footer>
+  </body>
+</html>
