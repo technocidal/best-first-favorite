@@ -3,7 +3,7 @@ title: Best, First, Favorite
 ---
 <section>
 <h2>What the heck is this website about?</h2>
-<p><strong>Best, First, Favorite (BFF)</strong> is a concept first introduced by <a href="https://mastodon.social/@hotdogsladies">Merlin Mann</a> and <a href="https://mastodon.social/@siracusa">John Siracusa</a> during <a href="https://www.relay.fm/rd/220">episode 220</a> of their program <a href="https://www.relay.fm/rd">Reconcilable Differences</a>.</p>
+The concept <p><strong>Best, First, Favorite (BFF)</strong> was first introduced by <a href="https://mastodon.social/@hotdogsladies">Merlin Mann</a> and <a href="https://mastodon.social/@siracusa">John Siracusa</a> during <a href="https://www.relay.fm/rd/220">episode 220</a> of their program <a href="https://www.relay.fm/rd">Reconcilable Differences</a>.</p>
 </section>
 
 <section>
