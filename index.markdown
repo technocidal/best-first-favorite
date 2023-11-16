@@ -12,6 +12,8 @@ title: Best, First, Favorite
 <p><strong>First</strong> is used to label an episode or entry that truly encapsulates the appeal of the thing, helping people experiencing it for the first time decide if it's for them.</p>
 
 <p><strong>Favorite</strong> is the one that <a href="https://overcast.fm/+E5IOgLjKU/51:51">"gives you the most warm fuzzies"</a>.</p>
+
+<p>For now, for the sake of my own sanity, this website will only include entries for things that are mentioned while John or Merlin are discussing BFF and have made mention of the overall concept.</p>
 </section>
 
 <section>
