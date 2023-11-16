@@ -47,7 +47,7 @@ items:
         url: https://www.themoviedb.org/movie/118340-guardians-of-the-galaxy
   - name: You Look Nice Today
     category: Podcast
-    mentionedOn: Spotlight - Ep. 246 (Exclusive podcast for Relay members )
+    mentionedOn: Spotlight - Ep. 246
     mentionedOnUrl: https://www.relay.fm/membership
     first:
       - label: Parlor Parlor
