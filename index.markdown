@@ -7,11 +7,11 @@ title: Best, First, Favorite
 
 <p>BFF is meant to quickly convey one's feelings about a thing, especially TV shows and podcasts.</p>
 
-<p><strong>Best</strong> is the particular instance of a thing where there are "like no bad parts," and it usually comes up in a conversation between two people who already love the thing.</p>
+<p><strong>Best</strong> is the particular instance of a thing where there are <a href="https://overcast.fm/+E5IOgLjKU/49:41">"like no bad parts"</a>, and it usually comes up in a conversation between two people who already love the thing.</p>
 
 <p><strong>First</strong> is used to label an episode or entry that truly encapsulates the appeal of the thing, helping people experiencing it for the first time decide if it's for them.</p>
 
-<p><strong>Favorite</strong> is the one that "gives you the most warm fuzzies".</p>
+<p><strong>Favorite</strong> is the one that <a href="https://overcast.fm/+E5IOgLjKU/51:51">"gives you the most warm fuzzies"</a>.</p>
 </section>
 
 <section>
