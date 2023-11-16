@@ -17,7 +17,7 @@ title: Best, First, Favorite
 <section>
 <div class="grid">
   <section>
-      <h2>John</h2>
+      <h2>Johns BFF</h2>
       <ul class="post-list">
         {% for item in site.data.john.items %}
           <li class="post-list-element">
@@ -27,7 +27,7 @@ title: Best, First, Favorite
       </ul>
     </section>
     <section>
-      <h2>Merlin</h2>
+      <h2>Merlins BFF</h2>
       <ul class="post-list">
         {% for item in site.data.merlin.items %}
           <li class="post-list-element">
