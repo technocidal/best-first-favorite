@@ -6,6 +6,7 @@
     </hgroup>
   </header>
   <main>
+    {% if include.item.best %}
     <hgroup>
       <h4>Best</h4>
       <ul>
@@ -16,6 +17,8 @@
         {% endfor %}
     </ul>
     </hgroup>
+    {% endif %}
+    {% if include.item.first %}
     <hgroup>
       <h4>First</h4>
       <ul>
@@ -26,6 +29,8 @@
         {% endfor %}
     </ul>
     </hgroup>
+    {% endif %}
+    {% if include.item.favorite %}
     <hgroup>
       <h4>Favorite</h4>
       <ul>
@@ -36,5 +41,6 @@
         {% endfor %}
     </ul>
     </hgroup>
+    {% endif %}
   </main>
 </article>
