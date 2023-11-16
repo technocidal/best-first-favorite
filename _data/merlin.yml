@@ -32,8 +32,6 @@ items:
         url: https://www.beatlesbible.com/albums/rubber-soul/
       - label: Please Please Me
         url: https://www.beatlesbible.com/albums/please-please-me/
-    favorite:
-      - label: Yet to be revealed
   - name: Marvel Movies
     category: Other
     mentionedOn: Reconcilable Differences - Ep. 221
@@ -47,3 +45,10 @@ items:
     favorite:
       - label: Guardians of the Galaxy
         url: https://www.themoviedb.org/movie/118340-guardians-of-the-galaxy
+  - name: You Look Nice Today
+    category: Podcast
+    mentionedOn: Spotlight - Ep. 246 (Exclusive podcast for Relay members )
+    mentionedOnUrl: https://www.relay.fm/membership
+    first:
+      - label: Parlor Parlor
+        url: https://vimeo.com/147967454
